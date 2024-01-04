@@ -1,0 +1,14 @@
+{
+  "name": "Sistemtoko",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "WahidApr",
+  "license": "MIT",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "9.5.3",
+    "prettier": "^3.1.1"
+  }
+}
